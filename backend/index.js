@@ -11,7 +11,7 @@ app.use(express.json())
 dotenv.config()
 
 app.use(cors({
-    url : "http://localhost:5174",
+    url : "https://authentication-using-mern-b6cc.vercel.app",
     credentials : true
 }))
 
