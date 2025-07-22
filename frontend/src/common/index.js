@@ -1,4 +1,4 @@
-const backendDomain = "http://localhost:5000"
+const backendDomain = "https://authentication-using-mern-xi.vercel.app/"
 
 const summaryApi = {
     signup : {
